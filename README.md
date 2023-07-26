@@ -2,7 +2,7 @@
 
 <div>
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Brunozo2042&show_icons=true&theme=gotham&rank_icon=github&include_all_commits=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunozo2042&hide_progress=true&theme=gotham" />
+  <img height="180px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunozo2042&hide_progress=true&theme=gotham" />
 </div>
 
 <div style="display: inline_block"><br>
