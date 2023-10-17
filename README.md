@@ -16,5 +16,7 @@
   <img align="center" alt="Bruno-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Bruno-JQuery" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
   <img align="center" alt="Bruno-MySql" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Bruno-MySql" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />        
+  <img align="center" alt="Bruno-Electron" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />        
+  <img align="center" alt="Bruno-Access" height="80" width="50" src="./.svg" /> 
+  <img align="center" alt="Bruno-VB6" height="80" width="50" src="./.svg" /> 
 </div>
